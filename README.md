@@ -20,6 +20,6 @@
 #### Tableau Dashboard
 https://public.tableau.com/profile/steph1659#!/vizhome/NY-Bikeshare/NYCCitiBike?publish=yes
 
-![alt text]()
+![alt text](https://github.com/StephGerron/bikesharing/blob/master/Pics/Bike_to_work.JPG)
 
 ![Credit for Bike Commuter Image](https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/)
