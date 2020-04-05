@@ -1,6 +1,6 @@
 # Bikesharing
 
-https://github.com/StephGerron/bikesharing/blob/master/Pics/Bikeshare.jpg
+![alt text](https://github.com/StephGerron/bikesharing/blob/master/Pics/Bikeshare.jpg)
 
 # NYC Citi Bike Analysis 
 This is a summary of the analytic work that I did with the NYC Citi Bike data.
