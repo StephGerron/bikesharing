@@ -17,4 +17,9 @@
 
 #### This is a long standing tradition to help tourists see the area via bikes. We can increase this desire by allowing convenient bikesharing opportunities to families and visitors alike. Most of the sites to see within a short bike ride or a tour lasting most of the day or even subscribers that are using the bikes to commute. The city of Des Moines needs a option that is convenient and there when anyone has the idea to bike somewhere. Whether you are resident that went out to breakfast and decide it is too lovely day not to take a ride or a tourist that has decided to use a bike while in Des Moines to get the most out of our scenery and their time with us. A bike sharing option is just convenience that can capitalize on both! 
 
+#### Tableau Dashboard
 https://public.tableau.com/profile/steph1659#!/vizhome/NY-Bikeshare/NYCCitiBike?publish=yes
+
+![alt text]()
+
+![Credit for Bike Commuter Image](https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/)
